@@ -17,10 +17,10 @@ Version 0.0.0
 Version 0.1.0
    - main.py created
    - README.md updated
-
+```
 <h1 align="center"> Features:</h1>
 
-```
+
 With various Discord bot commands, users can search for whatever they need
 via the LinkedIn API
 
