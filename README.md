@@ -23,7 +23,7 @@ Version 0.1.0
 ```
 With various Discord bot commands, users can search for whatever they need
 via the LinkedIn API
-```
+
 
 <h1 align="center"> Bugs:</h1>
 
